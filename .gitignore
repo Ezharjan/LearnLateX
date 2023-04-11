@@ -3,13 +3,6 @@
 .idea
 temp
 
-.aux
-.log
-.gz
-.synctex.gz
-.pdf
-.out
-.toc
 *.pdf
 
 
@@ -314,3 +307,13 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+
+
+.aux
+.log
+.gz
+.synctex.gz
+.pdf
+.out
+.toc
