@@ -10,6 +10,7 @@ temp
 .pdf
 .out
 .toc
+*.pdf
 
 
 ## Core latex/pdflatex auxiliary files:
